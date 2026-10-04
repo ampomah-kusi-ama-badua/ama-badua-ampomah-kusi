@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ama 👋🏽
 
-<!--
-**ampomahkusiamabadua-design/ampomahkusiamabadua-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+💻 Learning programming and building my skills  
+🌱 Exploring technology and discovering what I enjoy most in tech
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student interested in learning how technology works and how software can be used to solve real-world problems.
+I'm currently developing my programming skills and working on projects as I continue my journey in Computer Science.
+
+## Currently Learning
+
+- Programming
+- C++
+- Git & GitHub
+- Databases
+- Digital Systems
+
+## Goals
+
+- Build more projects
+- Improve my programming skills
+- Gain practical experience
+- Explore different areas of technology
+
+
+
+⭐ Thanks for visiting my profile!
