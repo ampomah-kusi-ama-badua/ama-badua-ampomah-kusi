@@ -13,9 +13,9 @@ I'm currently developing my programming skills and working on projects as I cont
 
 - Programming
 - C++
-- Git & GitHub
+- python
 - Databases
-- Digital Systems
+- Logic Design
 
 ## Goals
 
